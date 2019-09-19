@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TVRibbon</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="book1">book1.png</string>
+    <string name="book2">book2.png</string>
+    <string name="book3">book3</string>
+</resources>
